@@ -1,4 +1,5 @@
 Laboratorio: Persistencia en Bases de Datos
+
 I. Introducción: ¿Por qué necesitamos Volúmenes?
 Cuando empezamos a usar Docker, descubrimos algo muy importante: los contenedores tienen "mala memoria". Por defecto, un contenedor es temporal. Si creamos una base de datos, guardamos información en ella y luego borramos el contenedor por accidente (o para actualizarlo), toda nuestra información desaparece para siempre.
 
